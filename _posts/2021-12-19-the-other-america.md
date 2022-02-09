@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*The Other America*"
+title:  "The Other America"
 author: "Martin Luther King, Jr."
 published: "1967"
 term: "IAP 2022"

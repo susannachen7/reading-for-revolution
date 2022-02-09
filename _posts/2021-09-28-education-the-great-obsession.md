@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Education: The Great Obsession*"
+title:  "Education: The Great Obsession"
 author: "Grace Lee Boggs"
 published: "1970"
 term: "Fall 2021"

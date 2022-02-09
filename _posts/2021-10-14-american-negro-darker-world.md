@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "*The American Negro and the Darker World*"
+title:  "The American Negro and the Darker World"
 author: "W.E.B. Du Bois"
 published: "1957"
 term: "Fall 2021"
+original: False
 ---
 
 *W. E. B. Du Bois (1868-1963) was a renowned Black American academic, Pan-Africanist, socialist, and cofounder of the NAACP. A prolific author of Black literature and sociology, he wrote famous histories on_[_Reconstruction_](https://bookshop.org/books/black-reconstruction-in-america-1860-1880/9780684856575)_,_[_abolitionist movements_](https://bookshop.org/books/john-brown-9780679783534/9781563249716)_, and_[_Africa_](https://www.worldcat.org/title/world-and-africa-an-inquiry-into-the-part-which-africa-has-played-in-world-history/oclc/412951)_, and pioneered works in the fields of_[_data visualization_](https://www.smithsonianmag.com/history/first-time-together-and-color-book-displays-web-du-bois-visionary-infographics-180970826/) _and_[_speculative fiction_](https://credo.library.umass.edu/view/full/mums312-b236-i001)_. Although he was one of the most prominent leaders of the NAACP, he was eventually forced to resign over his refusal to disavow communism during the height of McCarthyism. Du Bois was eventually targeted by the FBI and had his passport confiscated for nearly a decade. A lifelong anti-imperialist, Du Bois worked with national liberation movements throughout the so-called Third World, including the West Indies, China, Korea, and Kenya, before his death in Ghana, the first nation in Sub-Saharan Africa to become independent from colonial rule.*

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Statement on Visit to the USA*"
+title:  "Statement on Visit to the USA"
 author: "Philip Alston"
 published: "2017"
 term: "IAP 2022"

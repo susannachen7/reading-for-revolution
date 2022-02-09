@@ -10,9 +10,8 @@
     <div class = "container">
       <!-- Header -->
       <h1 class = "is-size-3">reading for revolution</h1>
-      {% include nav.html %}
-
-      <br>
+      {% include header.html %}
+      <hr>
 
       <!-- About -->
       <div id = "about">
@@ -20,7 +19,6 @@
         <p>Quis nostrud dolore eiusmod officia eu nulla commodo eiusmod amet occaecat eu in mollit ut. Labore voluptate tempor veniam aliquip consectetur et duis consequat dolor duis nostrud. Consectetur sint amet Lorem ex amet ipsum aliqua irure ipsum sunt in sit aliquip tempor irure. Mollit ipsum enim anim cupidatat officia eu amet.</p>
       </div>
 
-      <br>
       <br>
 
       <!-- Post Feed -->
@@ -36,7 +34,7 @@
             {%- for reading in currentTerm.items-%}
               <li>
                 <a href = "{{reading.url}}">
-                  <strong>{{reading.title | replace:"*",""}}</strong> ({{reading.published}}) by {{reading.author}}
+                  <strong>{{reading.title}}</strong> ({{reading.published}}) by {{reading.author}}
                 </a>
               </li>
             {%- endfor -%}

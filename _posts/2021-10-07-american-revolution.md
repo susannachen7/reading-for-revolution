@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Chapter 8, \"American Revolution\", from *Pages from a Black Radical's Notebook*"
+title:  "Chapter 8, \"American Revolution\", from <i>Pages from a Black Radical's Notebook</i>"
 author: "James Boggs"
 published: "2011"
 term: "Fall 2021"
+original: False
 ---
 
 Any social movement starts with the aim of achieving some rights heretofore denied. Sometimes a portion of these rights is achieved without a change in the social structure of the country. When this happens, the movement is not revolutionary, even though it has brought about social change. Such a movement was the CIO. At other times a movement is unable to achieve the rights it seeks without taking power from the existing government and creating a totally new order. When this happens, it is a revolution.

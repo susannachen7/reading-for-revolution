@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Towards a New Concept of Citizenship*"
+title:  "Towards a New Concept of Citizenship"
 author: "James Boggs"
 published: "1979"
 term: "Fall 2021"

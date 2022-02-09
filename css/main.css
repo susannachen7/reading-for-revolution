@@ -1,11 +1,6 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&family=Playfair+Display:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
 @import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
 
-/* @font-face {
-   font-family : "Playfair Display", serif;
-   font-weight: 700;
-   font-style: normal;
-} */
 
 html, body {width: auto!important; overflow-x: hidden!important;}
 
@@ -15,15 +10,24 @@ nav {
 }
 
 h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "Georgia", serif;
   font-weight: bold;
   display: inline;
-  line-height: 1em;
-  margin-bottom: 15px;
+  line-height: 1.1em;
 }
 
-p, h2{
+p, h2, h3, li{
   font-family: "Lato", sans-serif;
+}
+
+p{
+  margin-bottom: 1em;
+}
+
+.title{
+  font-family: "Roboto";
+  font-weight: bold;
+  margin-bottom: -20px;
 }
 
 .container{

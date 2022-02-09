@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "*Beyond Vietnam: A Time to Break Silence*"
+title:  "Beyond Vietnam: A Time to Break Silence"
 author: "Martin Luther King, Jr."
 published: "1967"
 term: "IAP 2022"
 original: https://www.crmvet.org/docs/mlk-viet.htm
 ---
 
-### [**video version**](https://www.youtube.com/watch?v=3Qf6x9_MLD0)
+[**VIDEO VERSION**](https://www.youtube.com/watch?v=3Qf6x9_MLD0)
+
 
 _By 1967, racism, poverty, and the Vietnam War were the dominant issues confronting America and the Freedom Movement. On April 4, 1967, Dr. King forcefully speaks out against the Vietnam War with this &quot;Beyond Vietnam: A Time to Break Silence&quot; speech delivered at Riverside Church in New York City (see_[_A Time to Break Silence_](https://www.crmvet.org/tim/timhis67.htm#1967vietking) _for background). Ten days later, in a speech at Stanford University titled &quot;_[_The Other America_](https://www.crmvet.org/docs/otheram.htm)_,&quot; Dr. King addresses race, poverty and economic justice.]_
 

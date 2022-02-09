@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*Why Socialism?*"
+title:  "Why Socialism?"
 author: "Albert Einstein"
 published: "1949"
 term: "Fall 2021"

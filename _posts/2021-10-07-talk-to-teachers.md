@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Excerpt from *A Talk to Teachers*"
+title:  "Excerpt from \"A Talk to Teachers\""
 author: "James Baldwin"
 published: "1963"
 term: "Fall 2021"
