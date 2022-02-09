@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "*The Beloved Community of Martin Luther King (2004)*"
+title:  "*The Beloved Community of Martin Luther King*"
 author: "Grace Lee Boggs"
 published: "2004"
 term: "IAP 2022"

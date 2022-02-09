@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chapter 8, "American Revolution", from *Pages from a Black Radical's Notebook*"
+title:  "Chapter 8, \"American Revolution\", from *Pages from a Black Radical's Notebook*"
 author: "James Boggs"
 published: "2011"
 term: "Fall 2021"
