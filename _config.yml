@@ -17,16 +17,9 @@ title: Reading for Revolution
 email: progressives-reading-group@mit.edu
 description: >- # this means to ignore newlines until "baseurl:"
   Reading group at MIT discussing the life and legacy of revolutionary figures such as Martin Luther King Jr., Grace Lee and James Boggs, and W. E. B. Du Bois.
-<<<<<<< HEAD
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 terms: ["Spring 2022","IAP 2022", "Fall 2021"]
-=======
 baseurl: "/reading-for-revolution" # the subpath of your site, e.g. /blog
 url: "https://susannachen7.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-terms: ["IAP 2022", "Fall 2021"]
-
->>>>>>> 3f642e193ae028f83f7eca262302631e9115d5c0
 # Build settings
 markdown: kramdown
 theme: minima
