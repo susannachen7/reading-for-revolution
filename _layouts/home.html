@@ -3,7 +3,6 @@
   <head>
     {% include head.html %}
     <title>Reading for Revolution</title>
-    <link type = "text/css" rel = "stylesheet" href = "/css/main.css">
   </head>
   <body>
 
@@ -33,7 +32,7 @@
           <ul>
             {%- for reading in currentTerm.items-%}
               <li>
-                <a href = "{{reading.url}}">
+                <a href = "{{site.baseurl}}/{{reading.url}}">
                   <strong>{{reading.title}}</strong> ({{reading.published}}) by {{reading.author}}
                 </a>
               </li>
