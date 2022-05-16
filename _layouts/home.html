@@ -33,7 +33,10 @@
             {%- for reading in currentTerm.items-%}
               <li>
                 <a href = "{{site.baseurl}}/{{reading.url}}">
-                  <strong>{{reading.title}}</strong> ({{reading.published}}) by {{reading.author}}
+                  <strong>{{reading.title}}</strong> ({{reading.published}})
+                  {% if reading.author %}
+                    by {{reading.author}}
+                  {% endif %}
                 </a>
               </li>
             {%- endfor -%}
